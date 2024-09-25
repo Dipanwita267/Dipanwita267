@@ -25,5 +25,3 @@
   </div>
    
   
-[![GitHub Dipanwita267](https://img.shields.io/github/followers/Dipanwita267?label=follow&style=social&logoColor=black)](https://github.com/Dipanwita267)
-![Profile views](https://gpvc.arturio.dev/Dipanwita267)  
