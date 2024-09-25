@@ -15,7 +15,7 @@
 ## <img src="https://th.bing.com/th/id/R.011db7f1e14cdcefd5ed8b056f70d038?rik=NHHx7PD%2bLTi5YA&riu=http%3a%2f%2fui.trinine.net%2fwp%2fwp-content%2fuploads%2f2016%2f06%2f20160602_GraphAnimeIcon.gif&ehk=TXXGvgTPI6i%2f5xQe%2fW3mnT36hQPfIBwZcQsaKAlJWhs%3d&risl=&pid=ImgRaw&r=0" width="25"> <b>Github Stats</b>
 
  <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dipanwita267&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Deepshikha yadav |Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Dipanwita267&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true" alt="Dipanwita  |Stats" />
    
    <a href="https://github.com/Dipanwita267"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dipanwita267&theme=dracula&hide_border=true"  width="520" alt="Dipanwita267"/></a>
   
