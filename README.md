@@ -26,25 +26,6 @@
  
   </div>
    
-  ## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
   
-![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=Dipanwita267&area=true&hide_border=true&theme=dracula)
-
-
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
-
-<p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipanwita267&theme=dark" /> </p>
-  
-## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
-  
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:Dipanwita2672000@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/Deepshi83711299)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/deepshikha-yadav-27-10/)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/12636730/deepshikha-yadav?tab=topactivity)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/Dipanwita2672?tab=topactivity)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-black?style=for-the-badge&logo=Sololearn)](https://www.sololearn.com/profile/18833908)
-
-
-
 [![GitHub Dipanwita267](https://img.shields.io/github/followers/Dipanwita267?label=follow&style=social&logoColor=black)](https://github.com/Dipanwita267)
 ![Profile views](https://gpvc.arturio.dev/Dipanwita267)  
